@@ -57,4 +57,4 @@ Query Optimization: Identified and corrected join conditions (e.g., order_id to 
 Insight Generation: Translated raw data into actionable business recommendations, such as menu expansion and pricing adjustments.
 Problem-Solving: Addressed inconsistencies (e.g., text-based quantities in prior analyses) and proposed data validation steps.
 #  Conclusion
-This analysis transformed raw restaurant data into a strategic asset, providing a foundation for menu enhancements and operational improvements. The process highlights my proficiency in SQL querying, data interpretation, and business application, making it a valuable addition to my GitHub portfolio and professional website. Future work could involve predictive modeling or customer segmentation to further drive growth.
+This analysis transformed raw restaurant data into a strategic asset, providing a foundation for menu enhancements and operational improvements. The process highlights my proficiency in SQL querying, data interpretation, and business application. Future work could involve predictive modeling or customer segmentation to further drive growth.
